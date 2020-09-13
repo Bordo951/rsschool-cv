@@ -9,7 +9,13 @@
 
 ### About me
 
+Future Front End Developer
+
 ### Education
+
+* **College of Business and Law** (Economist)
+* **Belarusian State Economic University** (Bachelor of Economics, Master of Economics)
+* **IT-Academy** (Website development using HTML, CSS, JavaScript)
 
 ### Key skills 
 
